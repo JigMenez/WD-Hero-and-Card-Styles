@@ -41,8 +41,6 @@
           <a href="#technology">Technology</a>
         </li>
       </ol>
-    </li>
-    <li>
     <li>
       <a href="#resources">Resources</a>
     </li>
