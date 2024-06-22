@@ -42,8 +42,7 @@
         </li>
       </ol>
     </li>
-    <li>
-    </li>
+    
     <li>
       <a href="#resources">Resources</a>
     </li>
