@@ -80,15 +80,15 @@ JavaScript: Adds interactivity, such as animations, hover effects, and dynamic c
 Libraries: Bootstrap or Tailwind CSS for layout and styling, Font Awesome for icons, and Google Fonts for typography.
 
 ### Key Components
-- Header Section:
+Header Section:
  - Navigation Links: Links to the home page, hero pages, and other sections.
  - Logo: An optional logo or site name.
-   
-- Main Content:
+
+Main Content:
  - Hero Pages: Detailed information about each hero, including images, descriptions, abilities, and background stories.
  - Card Gallery: A grid of cards, each containing an image and brief description of a hero. Clicking on a card takes the user to the detailed hero page.
 
-- Footer Section:
+Footer Section:
  - Navigation Links: Additional links to important sections.
  - Contact Information: Email, social media links, or other contact details.
  - Copyright Information: Site copyright and any relevant legal information.
