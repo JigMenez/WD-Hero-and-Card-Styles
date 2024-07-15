@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/JigMenez/">
+  <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Hero and Card</h3>
+  <h3 align="center">Title</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Hello. This is my project for the Hands On 2. (Optional)
+  Short Description. (Optional)
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=JigMenez/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
 
 ---
 
@@ -60,42 +60,17 @@
 Description of the project in details.
 
 Guiding Question:
-1. What is the project?
-The project is a personal portfolio website that includes hero pages and a card gallery. The hero pages provide detailed information about different characters, while the card gallery offers a visual overview of these characters in a grid layout.
-
-2. What's the purpose?
-The purpose of this project is to showcase design skills and web development knowledge through a visually appealing and functional portfolio. The hero pages aim to give in-depth insights into each character, and the card gallery allows quick browsing and navigation to detailed hero pages.
-
-3. What are key components?
-Header: Contains navigation links to different sections of the website, ensuring easy navigation for users.
-Main Content: Displays the primary information and visual elements, such as hero details or cards in the gallery.
-Footer: Provides additional navigation links, contact information, and other relevant details.
-Card Layout (for Gallery): A grid layout presenting cards with images and brief descriptions.
-Hero Details (for Hero Pages): Sections detailing the hero's image, abilities, and background story.
-
-5. What technology is used and how is it used?
-HTML: Structures the content for both the hero pages and the card gallery.
-CSS: Styles the pages to ensure a consistent and visually appealing design, utilizing layouts, colors, and responsive design techniques.
-JavaScript: Adds interactivity, such as animations, hover effects, and dynamic content loading.
-Libraries: Bootstrap or Tailwind CSS for layout and styling, Font Awesome for icons, and Google Fonts for typography.
+- What is the project
+- Whats the purpose
+- What are key components
+- What technology used and how it is used
 
 ### Key Components
-Header Section:
- - Navigation Links: Links to the home page, hero pages, and other sections.
- - Logo: An optional logo or site name.
-
-Main Content:
- - Hero Pages: Detailed information about each hero, including images, descriptions, abilities, and background stories.
- - Card Gallery: A grid of cards, each containing an image and brief description of a hero. Clicking on a card takes the user to the detailed hero page.
-
-Footer Section:
- - Navigation Links: Additional links to important sections.
- - Contact Information: Email, social media links, or other contact details.
- - Copyright Information: Site copyright and any relevant legal information.
- - Styling and Interactivity:
- - CSS: For layout, colors, fonts, and responsive design.
- - JavaScript: For dynamic elements, animations, and interactivity.
- - Libraries: Bootstrap or Tailwind CSS for quick and efficient styling, Font Awesome for icons, and Google Fonts for typography.
+<!-- TODO: List of Key Components -->
+<!-- The following are just sample -->
+- MultiPage Website/Single Page Website
+- Parallax transition
+- Transactional
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -142,4 +117,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Hero and Card | The purpose of this project is to showcase design skills and web development knowledge through a visually appealing and functional portfolio. The hero pages aim to give in-depth insights into each character, and the card gallery allows quick browsing and navigation to detailed hero pages. | [jigmenez.com](https://jigmenez.github.io/WD-Hero-and-Card-Styles/) |
+| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
