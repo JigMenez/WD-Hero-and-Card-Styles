@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/JigMenez/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Hero-and-Card-Styles)
 
 ---
 
@@ -53,24 +53,23 @@
 
 ---
 
-## Overview
-
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
-
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+Header Section:
+ - Navigation Links: Links to the home page, hero pages, and other sections.
+ - Logo: An optional logo or site name.
+ - Main Content:
+Hero Pages: Detailed information about each hero, including images, descriptions, abilities, and background stories.
+Card Gallery: A grid of cards, each containing an image and brief description of a hero. Clicking on a card takes the user to the detailed hero page.
+Footer Section:
+ - Navigation Links: Additional links to important sections.
+ - Contact Information: Email, social media links, or other contact details.
+ - Copyright Information: Site copyright and any relevant legal information.
+Styling and Interactivity:
+ - CSS: For layout, colors, fonts, and responsive design.
+ - JavaScript: For dynamic elements, animations, and interactivity.
+ - Libraries: Bootstrap or Tailwind CSS for quick and efficient styling, Font Awesome for icons, and Google Fonts for typography.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -90,7 +89,7 @@ Guiding Question:
 7. File Structure to follow below.
 
 ```
-WD-ProjectName
+WD-Hero-and-Card-Styles
 └─ assets
 |   └─ css
 |   |   └─ style.css
@@ -99,7 +98,52 @@ WD-ProjectName
 |   └─ js
 |       └─ script.js
 └─ pages
-|  └─ pageName
+|  └─ page1
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|  └─ page2
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|  └─ page3
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|  └─ page4
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|  └─ page5
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|  └─ page6
 |     └─ assets
 |     |  └─ css
 |     |  |  └─ style.css
@@ -117,4 +161,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Hero and Card | The purpose of this project is to showcase design skills and web development knowledge through a visually appealing and functional portfolio. | [jigmenez.com](https://jigmenez.github.io/WD-Hero-and-Card-Styles/) |
